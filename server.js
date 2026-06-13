@@ -1,4 +1,4 @@
 module.exports = {
-  DOMAIN: "http://IP_VPS_LU",
+  DOMAIN: "bandar-panel.astralmarket.my.id",
   PORT: 2556,
 };
