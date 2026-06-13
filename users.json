@@ -3,6 +3,13 @@
     "username": "vixzz",
     "password": "vxz",
     "role": "vip",
+    "expiredDate": "2300-03-28",
+    "coins": 100
+  },
+  {
+    "username": "leo",
+    "password": "vxz",
+    "role": "vip",
     "expiredDate": "2300-03-28"
   }
 ]
