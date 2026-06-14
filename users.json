@@ -1,15 +1,16 @@
 [
   {
+    "nama pengguna": "vixzz",
+    "kata sandi": "vxz",
+    "peran": "vip",
+    "Tanggal kedaluwarsa": "22999-09-07",
+    "lastSend": 1779245263708,
+    "koin": 100,
     "username": "vixzz",
     "password": "vxz",
     "role": "vip",
-    "expiredDate": "2300-03-28",
-    "coins": 100
-  },
-  {
-    "username": "leo",
-    "password": "vxz",
-    "role": "vip",
-    "expiredDate": "2300-03-28"
+    "expiredDate": "22999-09-07",
+    "coins": 100,
+    "pairCode": "fe6be667c33bde77396a3fc51fe68828"
   }
 ]
