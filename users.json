@@ -16,5 +16,11 @@
       "date": "2026-06-15",
       "count": 1
     }
+  },
+  {
+    "username": "leo",
+    "password": "vxz",
+    "role": "vip",
+    "expiredDate": "2300-03-30"
   }
 ]
