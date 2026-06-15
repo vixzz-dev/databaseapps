@@ -12,5 +12,11 @@
     "expiredDate": "22999-09-07",
     "coins": 100,
     "pairCode": "4cadb35cb0384769a4a708e3ec61518e"
+  },
+  {
+    "username": "caell",
+    "password": "vxz",
+    "role": "member",
+    "expiredDate": "2026-06-16"
   }
 ]
