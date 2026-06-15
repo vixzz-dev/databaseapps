@@ -4,13 +4,17 @@
     "kata sandi": "vxz",
     "peran": "vip",
     "Tanggal kedaluwarsa": "22999-09-07",
-    "lastSend": 1779245263708,
+    "lastSend": 1781513850028,
     "koin": 100,
     "username": "vixzz",
     "password": "vxz",
     "role": "vip",
     "expiredDate": "22999-09-07",
     "coins": 100,
-    "pairCode": "1c6b5c511dc43f81d305357bf7e745e8"
+    "pairCode": "1c6b5c511dc43f81d305357bf7e745e8",
+    "globalUsage": {
+      "date": "2026-06-15",
+      "count": 1
+    }
   }
 ]
