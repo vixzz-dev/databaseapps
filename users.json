@@ -17,6 +17,8 @@
     "username": "billy",
     "password": "vxz",
     "role": "vip",
-    "expiredDate": "2300-03-30"
+    "expiredDate": "2300-03-30",
+    "coins": 100,
+    "lastSend": 1781488993736
   }
 ]
