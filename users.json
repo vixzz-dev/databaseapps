@@ -19,10 +19,6 @@
     "role": "vip",
     "expiredDate": "2300-03-30",
     "coins": 100,
-    "lastSend": 1781489012136,
-    "globalUsage": {
-      "date": "2026-06-15",
-      "count": 1
-    }
+    "lastSend": 1781489110240
   }
 ]
