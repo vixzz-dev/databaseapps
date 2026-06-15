@@ -21,6 +21,8 @@
     "username": "leo",
     "password": "vxz",
     "role": "vip",
-    "expiredDate": "2300-03-30"
+    "expiredDate": "2300-03-30",
+    "coins": 100,
+    "pairCode": "e80340a6294dbc760d54606d9d09d41b"
   }
 ]
