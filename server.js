@@ -1,4 +1,4 @@
 module.exports = {
-  DOMAIN: "bandar-panel.astralmarket.my.id",
-  PORT: 2556,
+  DOMAIN: "panel-legal.jhonaley.net",
+  PORT: 4423,
 };
