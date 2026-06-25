@@ -1,4 +1,4 @@
 module.exports = {
-  DOMAIN: "serverpunyasenz.senzhosting.my.id",
-  PORT: 10467,
+  DOMAIN: "tirzzyangsukadia.serverleo.biz.id",
+  PORT: 9220,
 };
